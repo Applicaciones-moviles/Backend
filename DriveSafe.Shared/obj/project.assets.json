@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
       "projectName": "DriveSafe.Shared",
-      "projectPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
+      "projectPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Shared\\DriveSafe.Shared.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Shared\\obj\\",
+      "outputPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -62,9 +62,8 @@ public class UserRepository : IUserRepository
         using (var transaction = await _driveSafeDbContext.Database.BeginTransactionAsync())
         {
             var userToUpdate = _driveSafeDbContext.Users.Where(u => u.Id == id).FirstOrDefault();
-            userToUpdate.Name = data.Name;
-            userToUpdate.LastName = data.LastName;
-            userToUpdate.Birthdate = data.Birthdate;
+            userToUpdate.FullName = data.FullName;
+            userToUpdate.DNI = data.DNI;
             userToUpdate.Cellphone = data.Cellphone;
             userToUpdate.Gmail = data.Gmail;
             userToUpdate.Password = data.Password;

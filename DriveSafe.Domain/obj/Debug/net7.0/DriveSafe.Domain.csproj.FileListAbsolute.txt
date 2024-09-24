@@ -64,3 +64,15 @@ C:\Users\jacob\Desktop\Auto Theme Backend\DriveSafe-BackEnd-main\DriveSafe.Domai
 C:\Users\jacob\Desktop\Auto Theme Backend\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\refint\DriveSafe.Domain.dll
 C:\Users\jacob\Desktop\Auto Theme Backend\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.pdb
 C:\Users\jacob\Desktop\Auto Theme Backend\DriveSafe-BackEnd-main\DriveSafe.Domain\obj\Debug\net7.0\ref\DriveSafe.Domain.dll
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.deps.json
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\bin\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.AssemblyInfo.cs
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.sourcelink.json
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.dll
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\refint\DriveSafe.Domain.dll
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\DriveSafe.Domain.pdb
+C:\Users\jacob\Desktop\App Web Backend\Backend\DriveSafe.Domain\obj\Debug\net7.0\ref\DriveSafe.Domain.dll

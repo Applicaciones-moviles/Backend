@@ -61,11 +61,11 @@ public class VehicleRepository : IVehicleRepository
             existingVehicle.Consumption = data.Consumption;
             existingVehicle.Dimensions = data.Dimensions;
             existingVehicle.Weight = data.Weight;
-            existingVehicle.CarClass = data.CarClass;
-            existingVehicle.Transmission = data.Transmission;
-            existingVehicle.TimeType = data.TimeType;
+            existingVehicle.Placa = data.Placa;
+            existingVehicle.Description = data.Description;
             existingVehicle.RentalCost = data.RentalCost;
-            existingVehicle.PickUpPlace = data.PickUpPlace;
+            existingVehicle.StartDate = data.StartDate;
+            existingVehicle.EndDate = data.EndDate;
             existingVehicle.UrlImage = data.UrlImage;
             existingVehicle.RentStatus = data.RentStatus;
             existingVehicle.OwnerId = data.OwnerId;

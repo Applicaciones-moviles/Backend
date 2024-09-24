@@ -10,11 +10,11 @@ public class CreateVehicleCommand
     [Required] public int Consumption { get; set; }
     [Required] public string Dimensions { get; set; }
     [Required] public int Weight { get; set; }
-    [Required] public string CarClass { get; set; }
-    [Required] public string Transmission { get; set; }
-    [Required] public string TimeType { get; set; }
+    [Required] public string Placa { get; set; }
+    [Required] public string Description { get; set; }
     [Required] public int RentalCost { get; set; }
-    [Required] public string PickUpPlace { get; set; }
+    [Required] public DateTime StartDate { get; set; }
+    [Required] public DateTime EndDate { get; set; }
     [Required] public string UrlImage { get; set; }
     [Required] public string RentStatus { get; set; }
     [Required] public int OwnerId { get; set; }

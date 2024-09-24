@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {}
+    "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+    "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
         "projectName": "DriveSafe.Domain",
-        "projectPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
+        "projectPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
+    "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
         "projectName": "DriveSafe.Infraestructure",
-        "projectPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Infraestructure\\DriveSafe.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
-                "projectPath": "C:\\Users\\jacob\\Desktop\\Auto Theme Backend\\DriveSafe-BackEnd-main\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
+              "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj": {
+                "projectPath": "C:\\Users\\jacob\\Desktop\\App Web Backend\\Backend\\DriveSafe.Domain\\DriveSafe.Domain.csproj"
               }
             }
           }
